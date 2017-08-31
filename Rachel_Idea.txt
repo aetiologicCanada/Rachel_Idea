@@ -37,3 +37,27 @@ In the broadest possible terms, my proposal has three compontents:
 2. Build on UWC’s unique assets – its commitment to education as a key force for global peace -and its young scholars and alumni – to lead the creation and curation of content to RACHEL using an adaptation of Mozilla’s internationalization tools. 
 3. Promote the wide-spread deployment of RACHEL or RACHEL-like methods for refugee learning at scale.
 
+Let me briefly expand:
+
+1) Internationalization tools are crucial because the only way to build a world-wide community to provide translation and content curation is via such a tool knitted together with github -- this is how many big open source projects such as Firefox are created.  That said, I have questions - most of the sorts of objects that are typically used in a big open source project such as Firefox are text files, but we could be including sound files, and other binary objects, so this might not work.
+
+Step 1 also implies that someone is conducting the orchestra - setting up priorities for translation, and figuring out a back end so various internationalization contributions get knit into the Rachel currated content.
+
+2) I think UWC has several things going for it: gifted students with time on their hands, linguistic diversity, eagerness, and a keen desire for activities that reflect the institutional mission.  On the other hand, UWC is also very wedded to its existing model of residential schools for elite education and what I am proposing is very much NOT that.  UWC also has the relationship with UNHCR that I think this could leverage for everyone's benefit.  It is possible that this proposal works without UWC, but I think they might be a catalyst. 
+
+3) UNHCR and other development environments are already using RACHEL, and the technology appears robust, so this seems the easiest part of the proposal. Finding devices for students to interact with RACHEL servers appears to be a larger problem than building servers. 
+
+
+Next Steps:
+
+1) Discuss with WorldPossible - is this something they want? Does it fit their mission and vision and needs?
+2) Loop in Josh Matthews at Mozilla to teach us about internationalization. Is this the right technology for RACHEL? How does adjudication of submissions work?  
+3) Approach UWC, carefully. Use Cdn/US connections to start. Be attentive to the fact that there is (I don't think) any precedent for a world-wide UWC initiative like this...
+
+4) Let UWC approach UNHCR.  (Note to self: Does Larry Wood's daughter - who is/was working for UNHCR in Syria/Lebanon have a role here?) Does Pearson College (Canada' UWC) alumnus: Tanyella Evans and her Library for All project have some relevance here? 
+
+5) Try something very small.
+
+
+
+
