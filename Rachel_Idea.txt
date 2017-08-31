@@ -1,0 +1,39 @@
+This is a very draft, completely unauthorized, idea. No agency mentioned in the proposal has granted approval for its inclusion. It is just my brainstorming... and I alone am responsible for any errors.
+
+
+This document explores and invites comments on two questions: 
+
+Is there an opportunity for institutional collaboration amongst UNHCR, UWC & WorldPossible.org? 
+
+Could that collaboration build on the educational and ideals of UWC, and the linguistic and cultural diversity of UWC alumni and students, and could that collaboration be enabled technically by the internationalization tools used by Mozilla?
+
+
+Background: The World is facing the largest refugee crisis since at least the 2nd World War.  At the centre of this global crisis is the UNHCR (and the IOM) who are changed with caring for refugees and migrants. The educational needs of the several million children who are displaced is a key component of that task. Failing to educate this generation of refugees will only perpetuate the economic, social and political instability of our world, and a violation of the Declaration of the Rights of the Child.
+
+WorldPossible.org is a US charity (led by Jeremy Schwartz); their key/service - RACHEL - is a relatively ambitious attempt to bring off-line digital education content to the developing world. Essentially their approach involves the use of off-the-shelf “computer on a card” digital hardware, and the curation and provision of a selected open-source content, delivered to students through that hardware.  A classroom-specific deployment can be accomplished for a few hundred US dollars, with student using a plurality of commodity devices
+
+Using open-source content, software, and commodity hardware, RACHEL provides an off-line (not connected to the Internet) but interactive, digital resource that can be used in classrooms for K-12 and other audiences. The content provision is platform agnostic; students can use desktops, laptops, phones, etc. and student facing technology does not need to be current technology. To date the key languages for RACHEL deployments have been English and Spanish. Internationalization has been a key challenge.
+
+UWC (United World Colleges) is an organization whose (more than 100) country-level organizations select national-merit students for enrollment in a unique two-year international bacclaureate program run at 16+ independent schools across the world. Their mandate is to advance education for a peaceful and sustainable future.  They have historically done this through the selection of elite high school students and the provision of residential education programs for perhaps 100 new scholars per year per school. The schools are – I joke – a combination of Noah’s Ark and the United Nations; for example the US’s school 2017/2018 class of approximately 220 students (110 in each of 2 years) includes students from just under 100 countries. Each country with a school will select not only scholars for attendence at their in-country school, but will also send young scholar abroad to other UWC schools.  The net effect is astounding cultural, social and linguistic diversity on UWC campuses. UWC has historically placed a great emphasis on the recruitment of a diversestudent body, with a specific emphasis on refugees, state-less youth and youth-at-risk from political, social or other forces.
+
+Mozilla is a US charity that is chiefly known for its work in open-source software development, including the Firefox browser, and other products. A key feature of their software development cycle is the contributions of “civilian” collaborators, including those who support the internationalization of software through the translation of content into new languages. Mozilla has released open-source tools to support that internationalization. 
+
+
+
+
+Recent Events
+
+The key development in recent months, outside of the persistent refugee crisis, is that UWC and UNHRC have announced a $7M US fund to bring highly qualified UNHCR students to UWC schools over the next several years. If we estimate a conservative $25,000/year/student, this fund would support perhaps 150-300 students through the UWC syste, providing them with a unique educational experience.  
+
+I wish to argue that the real value of the UWC/UNHCR agreement is the relationship it establishes between UNHCR and UWC. It affirms UWC’s unique educational and social values and speaks to UNHCR’s crucial responsibilities. The proposal to send a relatively modest number of gifted UNHCR students to UWC schools has great merit but was never intended to address the daunting population-level obligations of UNHCR in the current refugee crisis.
+
+But, I think it opens an exciting door to something that could have larger impacts.
+
+My Proposal: 
+
+In the broadest possible terms, my proposal has three compontents: 
+
+1. Integrate Mozilla’s internationalization tools deeply into RACHEL so that extant content can be translated into the languages and cultures of key refugee populations, and so that new content can be created and curated that is appropriate to those cultures and those circumstances.
+2. Build on UWC’s unique assets – its commitment to education as a key force for global peace -and its young scholars and alumni – to lead the creation and curation of content to RACHEL using an adaptation of Mozilla’s internationalization tools. 
+3. Promote the wide-spread deployment of RACHEL or RACHEL-like methods for refugee learning at scale.
+
